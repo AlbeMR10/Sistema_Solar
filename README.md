@@ -1,4 +1,6 @@
 # Sistema_Solar
+Enlace a CodeSandboxÑ
+https://codesandbox.io/p/sandbox/sistema-solar-m5nvvs?file=%2Fsrc%2Findex.js
 
 Proyecto Correspondiente a la asigantura de Informática Gráfica.
 
